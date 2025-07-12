@@ -3,7 +3,7 @@ Convert 2 Pixel
 
 ### 如何使用
 
-执行 `python pixel.py`
+执行 `python pixel.py`，里面的参数 `pixelation_factor` 和 `num_colors` 自己调整
 
 ### 🤔可能会遇到的问题
 
